@@ -1,0 +1,133 @@
+id,name,user_id,ratings
+1,Weird Al Yankovic,1,2.5
+1,Weird Al Yankovic,2,1.5
+1,Weird Al Yankovic,3,3.5
+1,Weird Al Yankovic,4,1
+1,Weird Al Yankovic,5,3
+1,Weird Al Yankovic,6,5
+1,Weird Al Yankovic,7,3.5
+1,Weird Al Yankovic,8,1.5
+1,Weird Al Yankovic,9,1
+1,Weird Al Yankovic,10,3
+2,220 Volt,2,3.5
+2,220 Volt,4,2
+2,220 Volt,6,4.5
+2,220 Volt,8,3
+2,220 Volt,9,5
+2,220 Volt,10,1
+3,3 Doors Down,1,2
+3,3 Doors Down,3,5
+3,3 Doors Down,5,3.5
+3,3 Doors Down,6,4
+3,3 Doors Down,8,4.5
+3,3 Doors Down,9,2.5
+3,3 Doors Down,4,1.5
+3,3 Doors Down,10,5
+4,50 Cent,5,5
+4,50 Cent,4,4.5
+4,50 Cent,2,3
+5,Selena Gomez,3,5
+5,Selena Gomez,4,2.5
+5,Selena Gomez,5,5
+5,Selena Gomez,6,4.5
+5,Selena Gomez,7,5
+5,Selena Gomez,8,5
+5,Selena Gomez,9,5
+5,Selena Gomez,1,5
+6,Taylor Swift,1,5
+6,Taylor Swift,2,3.5
+6,Taylor Swift,3,4
+6,Taylor Swift,4,4.5
+6,Taylor Swift,5,4
+6,Taylor Swift,6,5
+6,Taylor Swift,7,4.5
+6,Taylor Swift,8,4.5
+6,Taylor Swift,9,3
+7,Katy Perry,3,4
+7,Katy Perry,4,2
+7,Katy Perry,6,4.5
+7,Katy Perry,5,4.5
+7,Katy Perry,1,3.5
+7,Katy Perry,9,2
+8,Adele,2,5
+8,Adele,4,1.5
+8,Adele,6,5
+8,Adele,5,5
+8,Adele,1,1
+8,Adele,3,1
+8,Adele,7,3.5
+8,Adele,8,4
+8,Adele,9,5
+9,Sam Smith,3,4
+9,Sam Smith,5,5
+9,Sam Smith,6,4.5
+9,Sam Smith,8,3
+9,Sam Smith,2,4.5
+10,Miley Cyrus,2,4
+10,Miley Cyrus,4,2
+10,Miley Cyrus,5,5
+10,Miley Cyrus,7,3
+11,Sunidhi Chauhan,1,5
+11,Sunidhi Chauhan,2,4.5
+11,Sunidhi Chauhan,3,2
+11,Sunidhi Chauhan,4,3.5
+11,Sunidhi Chauhan,5,4.5
+11,Sunidhi Chauhan,6,4
+11,Sunidhi Chauhan,7,5
+12,Shreya Ghoshal,3,5
+12,Shreya Ghoshal,7,4.5
+12,Shreya Ghoshal,5,5
+12,Shreya Ghoshal,6,5
+12,Shreya Ghoshal,1,4.5
+13,Arijit Singh,2,5
+13,Arijit Singh,1,5
+13,Arijit Singh,4,4.5
+13,Arijit Singh,5,4
+13,Arijit Singh,6,4
+13,Arijit Singh,7,5
+13,Arijit Singh,8,4.5
+13,Arijit Singh,9,3
+14,A.R Rahman,1,5
+14,A.R Rahman,2,4.5
+14,A.R Rahman,3,3
+14,A.R Rahman,4,5
+14,A.R Rahman,5,1
+14,A.R Rahman,7,3.5
+14,A.R Rahman,8,5
+14,A.R Rahman,9,3.5
+15,Akon,2,5
+15,Akon,6,4
+15,Akon,7,2
+15,Akon,8,3.5
+15,Akon,4,4.5
+16,Sonu Nigam,1,4.5
+16,Sonu Nigam,3,2
+16,Sonu Nigam,2,3
+16,Sonu Nigam,5,2.5
+16,Sonu Nigam,6,3
+17,Palak Mucchal,1,4.5
+17,Palak Mucchal,5,3
+17,Palak Mucchal,8,2.5
+18,Rahet Fateh Ali Khan,1,5
+18,Rahet Fateh Ali Khan,3,3
+18,Rahet Fateh Ali Khan,5,2.5
+18,Rahet Fateh Ali Khan,7,2
+18,Rahet Fateh Ali Khan,9,1
+19,Mohit Chouhan,4,5
+19,Mohit Chouhan,2,3
+19,Mohit Chouhan,7,1
+19,Mohit Chouhan,9,2.5
+20,Amit Trivedi,4,4.5
+20,Amit Trivedi,6,3
+20,Amit Trivedi,8,2
+20,Amit Trivedi,2,1.6
+20,Amit Trivedi,9,3
+21,Halsey,6,5
+21,Halsey,9,3
+21,Halsey,2,2
+22,Ellie Goulding,5,4.5
+22,Ellie Goulding,6,5
+23,Lady Gaga,6,4.5
+23,Lady Gaga,3,2
+23,Lady Gaga,2,3
+23,Lady Gaga,7,3.5
